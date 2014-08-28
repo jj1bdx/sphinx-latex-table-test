@@ -1,0 +1,1 @@
+Search.setIndex({envversion:42,terms:{compil:0,index:0,search:0,correctli:0,docutil:0,modul:0,page:0,content:0,follow:0,col:0,row:0},objtypes:{},objnames:{},filenames:["index"],titles:["Welcome to sphinx-latex-table-test&#8217;s documentation!"],objects:{},titleterms:{latex:0,sphinx:0,welcom:0,indic:0,build:0,tabl:0,test:0,document:0}})
