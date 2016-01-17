@@ -1,5 +1,7 @@
 # sphinx-latex-table-test
 
+Note: this bug has been fixed in Sphinx 1.3.1, and TeX Live 2015 pair.
+
 An example of how multirow+multicolumn table fails on building LaTeX document on Sphinx.
 
 For Sphinx 1.2.2, and TeX Live 2014.
